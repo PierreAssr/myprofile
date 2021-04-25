@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Orelega+One&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Orelega One', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	background: #F4F8FF;
+}
+
+h1{
+	font-family: 'Orelega One', sans-serif;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #FDFDFD;
+
+}
+
+h2, h3{
+	font-family: 'Orelega One', sans-serif;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #0061F6;
+}
+
+a{
+	text-decoration: none;
+}
+
+h3{font-weight: lighter;
+	word-spacing: 2;
+	color: #0061F6;
+
+
+}
+
+h4{
+	color: #FDFDFD;
+	font-weight: lighter;
+	font-size: 28px;
+}
+
+.text{
+	font-weight: lighter;
+	word-spacing: 2;
+	justify-content: center;
+
+}
+
+
+
